@@ -1,5 +1,6 @@
 import java.io.Serializable;
 import java.util.Date;
+sjaakjad
 
 public class Asignatura implements Serializable {
     private String codigo;
